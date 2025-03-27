@@ -1,0 +1,9 @@
+/* Aplica estilos al contenedor principal de la aplicación */
+.App {
+    text-align: center;           /* Centra el contenido horizontalmente */
+    max-width: 960px;             /* Ancho máximo del contenedor */
+    margin: 0 auto;               /* Centra el contenedor en la página */
+    padding: 20px;                /* Espaciado interno */
+    font-family: Arial, sans-serif; /* Fuente por defecto para la aplicación */
+  }
+  
